@@ -1,6 +1,4 @@
-# Glasses
-
-A proof of concept app for virtually (AR) trying on glasses before purchasing
+# Bear Mask Filter
 
 ### Requires:
   - Pipenv
